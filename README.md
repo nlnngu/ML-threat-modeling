@@ -2,9 +2,20 @@
 This repo curates materials on threat modeling on systems that uses machine learning.
 
 # Analysis documents
-MITRE ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems: https://github.com/mitre/advmlthreatmatrix/
+### MITRE ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems:
+https://github.com/mitre/advmlthreatmatrix/
+
+### Microsoft: Threat Modeling AI/ML Systems and Dependencies
+https://docs.microsoft.com/en-us/security/engineering/threat-modeling-aiml
 
 # Technical documents
+### Microsoft: AI security risk assessment using Counterfit
+https://www.microsoft.com/security/blog/2021/05/03/ai-security-risk-assessment-using-counterfit/
+
+### Measuring the Progress of AI Research
+https://www.eff.org/ai/metrics
+
+https://github.com/AI-metrics/AI-metrics
 
 # Policy documents
 ### OECD Framework for Classifying AI Systems
@@ -57,7 +68,13 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52
 ### EU: Ethics guidelines for trustworthy AI
 https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 
-### Singapore: 
+### Singapore: Model AI Governance Framework
+https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/tech-pillars/Artificial-Intelligence
+
+https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf
+
+On Page 31 of the above PDF, there is the definition of "harm" to determine the level of human oversight in an organisation’s decision-making process involving AI:
+![AI Harm](/figures/AIHarm.jpg)
 
 # Projects
 ### HUMAINT: aiming to understand the impact of machine intelligence on human behaviour, with a focus on cognitive and socio-emotional capabilities and decision making
