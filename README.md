@@ -17,6 +17,9 @@ https://www.eff.org/ai/metrics
 
 https://github.com/AI-metrics/AI-metrics
 
+### Intelligence Task Ontology and Knowledge Graph (ITO): A comprehensive knowledge graph of artificial intelligence tasks and benchmarks
+https://github.com/OpenBioLink/ITO
+
 # Policy documents
 ### OECD Framework for Classifying AI Systems
 https://aipo-api.buddyweb.fr/app/uploads/2021/06/Report-for-consultation_OECD.AI_Classification.pdf
