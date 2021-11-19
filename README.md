@@ -74,6 +74,7 @@ https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/tech-pillars/Artifici
 https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf
 
 On Page 31 of the above PDF, there is the definition of "harm" to determine the level of human oversight in an organisation’s decision-making process involving AI:
+
 ![AI Harm](/figures/AIHarm.jpg)
 
 # Projects
