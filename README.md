@@ -31,9 +31,16 @@ https://assets.kpmg/content/dam/kpmg/uk/pdf/2018/09/ai-risk-and-controls-matrix.
 
 ### Berkeley: Guidance for the Development of AI Risk and Impact Assessments
 https://cltc.berkeley.edu/2021/08/09/guidance-for-the-development-of-ai-risk-and-impact-assessments/
+
 https://cltc.berkeley.edu/wp-content/uploads/2021/08/AI_Risk_Impact_Assessments_BRIEF.pdf
 
 ### Artificial Intelligence Governance And Auditing (AIGA) 2020-2022
 "... a first-class partner network to study and develop governance models for AI as well as the services and the business ecosystem emerging around responsible AI."
+
 https://des.utu.fi/research-group/projects/aiga/
+
 https://ai-governance.eu/
+
+### Top 5 Priorities for Managing AI Risk Within Gartner’s MOST Framework
+https://blogs.gartner.com/avivah-litan/2021/01/21/top-5-priorities-for-managing-ai-risk-within-gartners-most-framework/
+![MOST Framework](/figures/MOSTFramework.jpg)
