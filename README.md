@@ -7,4 +7,9 @@ MITRE ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems: 
 # Technical documents
 
 # Policy documents
+### OECD Framework for Classifying AI Systems
+https://aipo-api.buddyweb.fr/app/uploads/2021/06/Report-for-consultation_OECD.AI_Classification.pdf
+
+Characteristics per classification dimension and key actor(s) involved:
+
 
