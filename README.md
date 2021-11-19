@@ -43,4 +43,4 @@ https://ai-governance.eu/
 
 ### Top 5 Priorities for Managing AI Risk Within Gartner’s MOST Framework
 https://blogs.gartner.com/avivah-litan/2021/01/21/top-5-priorities-for-managing-ai-risk-within-gartners-most-framework/
-![MOST Framework](/figures/MOSTFramework.jpg)
+![MOST Framework](/figures/MOSTframework.jpg)
