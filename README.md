@@ -13,3 +13,8 @@ https://aipo-api.buddyweb.fr/app/uploads/2021/06/Report-for-consultation_OECD.AI
 Characteristics per classification dimension and key actor(s) involved:
 ![Characteristics per classification dimension and key actor(s) involved](/figures/actors.jpg)
 
+The AI system lifecycle:
+![The AI system lifecycle](/figures/lifecycle.jpg)
+
+On Page 24, there is a set of possible questions to help determine AI system transparency and explainability.
+
