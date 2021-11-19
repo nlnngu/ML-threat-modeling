@@ -44,3 +44,21 @@ https://ai-governance.eu/
 ### Top 5 Priorities for Managing AI Risk Within Gartner’s MOST Framework
 https://blogs.gartner.com/avivah-litan/2021/01/21/top-5-priorities-for-managing-ai-risk-within-gartners-most-framework/
 ![MOST Framework](/figures/MOSTframework.jpg)
+
+### NIST: A Proposal for Identifying and Managing Bias in Artificial Intelligence
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270-draft.pdf
+
+### EU: Robustness and Explainability of Artificial Intelligence
+https://publications.jrc.ec.europa.eu/repository/handle/JRC119336
+
+### EU: Proposal for a Regulation laying down harmonised rules on Artificial Intelligence (Artificial Intelligence Act) and amending certain Union legislative acts
+https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206
+
+### EU: Ethics guidelines for trustworthy AI
+https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
+
+### Singapore: 
+
+# Projects
+### HUMAINT: aiming to understand the impact of machine intelligence on human behaviour, with a focus on cognitive and socio-emotional capabilities and decision making
+https://ec.europa.eu/jrc/communities/en/community/humaint
