@@ -18,3 +18,7 @@ The AI system lifecycle:
 
 On Page 24, there is a set of possible questions to help determine AI system transparency and explainability.
 
+### Derisking AI by design: How to build risk management into AI development
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/derisking-ai-by-design-how-to-build-risk-management-into-ai-development
+
+![Derisking AI by design: How to build risk management into AI development](/figures/mackinsey.jpg)
