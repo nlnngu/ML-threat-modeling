@@ -71,6 +71,13 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52
 ### EU: Ethics guidelines for trustworthy AI
 https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 
+### Centre for European Policy Studies: Artificial Intelligence and Cybersecurity
+https://www.ceps.eu/wp-content/uploads/2021/05/CEPS-TFR-Artificial-Intelligence-and-Cybersecurity.pdf
+
+Where does Europe stand on the AI and cybersecurity interplay discussion? 
+
+AI for cybersecurity and cybersecurity for AI
+
 ### Singapore: Model AI Governance Framework
 https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/tech-pillars/Artificial-Intelligence
 
