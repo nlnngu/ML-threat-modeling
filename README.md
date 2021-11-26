@@ -20,6 +20,31 @@ https://github.com/AI-metrics/AI-metrics
 ### Intelligence Task Ontology and Knowledge Graph (ITO): A comprehensive knowledge graph of artificial intelligence tasks and benchmarks
 https://github.com/OpenBioLink/ITO
 
+### Challenges in Deploying Machine Learning: a Survey of Case Studies
+https://arxiv.org/abs/2011.09926
+
+![Challenges in Deploying Machine Learning](/figures/challenges.jpg)
+
+### Technology Readiness Levels for Machine Learning Systems
+https://arxiv.org/abs/2101.03989
+
+"... defines a principled process to ensure robust, reliable, and responsible systems while being streamlined for ML workflows, including key distinctions from traditional software engineering."
+![Technology Readiness Levels for Machine Learning Systems](/figures/TRL.jpg)
+
+### Quality Assurance Challenges for Machine Learning Software Applications During Software Development Life Cycle Phases
+https://arxiv.org/abs/2105.01195
+
+MLSA: Machine Learning Software Applications
+
+SDLC: Software Development Life Cycle
+
+"... a taxonomy of MLSA quality assurance issues by mapping the various ML adoption challenges across different phases of SDLC."
+
+### Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment
+https://arxiv.org/abs/2007.04693
+
+"... automated systems for validating privacy and security of models need to be developed ..."
+
 # Policy documents
 ### OECD Framework for Classifying AI Systems
 https://aipo-api.buddyweb.fr/app/uploads/2021/06/Report-for-consultation_OECD.AI_Classification.pdf
