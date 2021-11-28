@@ -39,6 +39,7 @@ MLSA: Machine Learning Software Applications
 SDLC: Software Development Life Cycle
 
 "... a taxonomy of MLSA quality assurance issues by mapping the various ML adoption challenges across different phases of SDLC."
+![Taxonomy of MLSA quality assurance issues](/figures/MLSA.jpg)
 
 ### Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment
 https://arxiv.org/abs/2007.04693
