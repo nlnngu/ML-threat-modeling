@@ -12,6 +12,14 @@ https://docs.microsoft.com/en-us/security/engineering/threat-modeling-aiml
 ### Microsoft: AI security risk assessment using Counterfit
 https://www.microsoft.com/security/blog/2021/05/03/ai-security-risk-assessment-using-counterfit/
 
+###  DARPA: Adversarial Robustness Toolbox (ART)
+
+Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security. ART provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats.
+
+https://www.darpa.mil/news-events/2021-12-21
+
+https://github.com/Trusted-AI/adversarial-robustness-toolbox
+
 ### Measuring the Progress of AI Research
 https://www.eff.org/ai/metrics
 
